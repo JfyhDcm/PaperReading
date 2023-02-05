@@ -19,15 +19,14 @@ git config --global user.email "wei836439982@sina.com"
 7.为当前branch添加commit
 git commit -m "this is your commit"
 8.git推送远端
-git pull origin master
+git push origin master
 
 
 9.git同步到本地
 	相当于两步操作，第一步先将远端同步到本地的远端副本，再将副本同步到本地分支
-9.1 git fetch orgin master
-git branch 查看当前所在分支
-* master
-9.2 git merge orgin/master
+git pull orgin master
+10.查看所有branch
+git branch -a
 
 ```
 
