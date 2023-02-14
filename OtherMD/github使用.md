@@ -6,7 +6,7 @@
 1.初始化文件夹
 git init
 2.设置远端地址
-git remot add origin https://github.com/JfyhDcm/PaperReading.git
+git remote add origin https://github.com/JfyhDcm/PaperReading.git
 3.将文件保存在本地分支上
 git add .
 4.查看信息
